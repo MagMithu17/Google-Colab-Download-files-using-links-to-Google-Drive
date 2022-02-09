@@ -8,6 +8,7 @@ In this method you can easily copy and paste direct links from IDM or Chrome or 
 ![Alt Text](https://i.ibb.co/vLj1bXR/Normal-link-download-using-IDM.gif)
 
 ### Second method - Firefox_cliget_wget_link         
-First you need cliget addon on firefox addon link : https://addons.mozilla.org/en-US/firefox/addon/cliget/
+First you need cliget addon on firefox. cliget addon link : https://addons.mozilla.org/en-US/firefox/addon/cliget/
+
 
 
