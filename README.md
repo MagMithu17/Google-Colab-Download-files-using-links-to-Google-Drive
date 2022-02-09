@@ -13,12 +13,12 @@ In this method you can easily copy and paste direct links from IDM or Chrome or 
 ![Alt Text](https://i.ibb.co/vLj1bXR/Normal-link-download-using-IDM.gif)
 
 ### Second method - Firefox_cliget_wget_link         
-First you need cliget addon on firefox.<br> cliget addon link : https://addons.mozilla.org/en-US/firefox/addon/cliget/<br>
+First you need to add cliget addon on firefox.<br> cliget addon link : https://addons.mozilla.org/en-US/firefox/addon/cliget/<br>
 ![Alt Text](https://i.ibb.co/QDr1QNq/Firefox-CLI-get-download.gif)
 
 
 ### Third method - Firefox_Command_Line_Get_Curl_Link
-First you need Command_Line_Get addon on firefox.<br> Command_Line_Get addon link : https://addons.mozilla.org/en-US/firefox/addon/command-line-get-clg/<br>
+First you need to add Command_Line_Get addon on firefox.<br> Command_Line_Get addon link : https://addons.mozilla.org/en-US/firefox/addon/command-line-get-clg/<br>
 This method will create a web url from download buttons 
 ![Alt Text](https://i.ibb.co/tLnYyr2/Command-Line-Get-download.gif)
 <br><br>
