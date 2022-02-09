@@ -16,6 +16,6 @@ First you need cliget addon on firefox.<br> cliget addon link : https://addons.m
 ### Third method - Firefox_Command_Line_Get_Curl_Link
 First you need Command_Line_Get addon on firefox.<br> Command_Line_Get addon link : https://addons.mozilla.org/en-US/firefox/addon/command-line-get-clg/<br>
 This method will create a web url from download buttons 
-![Alt Text](https://i.ibb.co/cr1WCNm/Firefox-Command-Line-Get-downoad.gif)
+![Alt Text](https://i.ibb.co/tLnYyr2/Command-Line-Get-download.gif)
 
 
