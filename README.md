@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/github/MagMithu17/Google-Colab-Download-any-links-to-Google-Drive/blob/main/Download_files_from_links.ipynb)
 # Google-Colab-Download-any-links-to-Google-Drive
 It will support both static and dynamic links.<br>
 Three methods are availabe to do this process<br>
