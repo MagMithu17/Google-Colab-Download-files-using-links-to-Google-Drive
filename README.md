@@ -6,7 +6,7 @@
 It will support both static and dynamic links.<br>
 Three methods are availabe to do this process<br>
 Firefox browser is mandatory to do 2nd and 3rd method and you need to disable other third party downloaders like IDM for method 2.<br>
-You can disable IDM with disabling IDM addon
+You can disable IDM by disabling IDM addon
 
 ### First method - Normal Link
 In this method you can easily copy and paste direct links from IDM or Chrome or Firefox but It will support for static links only<br>
