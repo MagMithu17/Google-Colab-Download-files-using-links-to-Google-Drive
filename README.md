@@ -23,6 +23,7 @@ This method will create a web url from download buttons
 ![Alt Text](https://i.ibb.co/tLnYyr2/Command-Line-Get-download.gif)
 <br><br>
 cell codings <br>
+```
 #@title <font color ="yellow">`⬅`</font><font color="#01c968">`Download from Link`</font>
 #@markdown <font color ="red"><h6>`In "Firefox_cliget_wget_link" and "Firefox_Command_Line_Get_Curl_Link" method you can't edit Downloading file name using "File_Name" field`</h6>
 def first4(s):
@@ -52,4 +53,4 @@ else:
     !wget -c "$Link" --no-check-certificate
   else:  
     !wget -c "$Link" -O "$File_Name" --no-check-certificate
-
+```
