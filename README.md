@@ -2,7 +2,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br>
 
-# Google-Colab-Download-any-links-to-Google-Drive
+# Google-Colab-Download-files-from-links-to-Google-Drive
 It will support both static and dynamic links.<br>
 Three methods are availabe to do this process<br>
 Firefox browser is mandatory to do 2nd and 3rd method and you need to disable other third party downloaders like IDM for method 2.<br>
