@@ -6,3 +6,5 @@ Three methods are availabe to do this process
 In this method you can easily copy and paste direct links from IDM or Chrome or Firefox but It will support for static links only<br>
 ![Alt Text](https://i.ibb.co/vLj1bXR/Normal-link-download-using-IDM.gif)
 
+### Second method - Normal Link
+
