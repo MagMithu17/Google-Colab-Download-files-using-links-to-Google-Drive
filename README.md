@@ -1,7 +1,7 @@
 # Google-Colab-Download-any-links-to-Google-Drive
 It will support both static and dynamic links.<br>
 Three methods are availabe to do this process<br>
-Firefox browser is mandatory to do 2nd and 3rd methods and you need to disable other third party downloaders like IDM in these methods.<br>
+Firefox browser is mandatory to do 2nd and 3rd method and you need to disable other third party downloaders like IDM for method 2.<br>
 You can disable IDM with disabling IDM addon
 
 ### First method - Normal Link
